@@ -69,3 +69,6 @@ The main entry point of the application. Initializes the `WordProvider` to load 
 
 - Inspired by classic text-based games.
 - Developed as a simple example of C++ programming concepts.
+
+## Contact
+For any questions or feedback, please contact `Shawaiz` Khan at `shawaizkhan.biz@gmail.com`
