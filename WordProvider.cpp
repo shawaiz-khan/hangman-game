@@ -2,7 +2,6 @@
 #include <fstream>
 #include <cstdlib>
 #include <ctime>
-
 using namespace std;
 
 WordProvider::WordProvider(const string& filename) : wordCount(0) {
