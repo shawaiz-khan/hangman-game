@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <cstring>
 
-using namespace std; // Added to avoid qualifying std::
+using namespace std;
 
 Game::Game(const string& word) {
     this->word = word;
